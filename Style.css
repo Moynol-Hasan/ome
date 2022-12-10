@@ -319,7 +319,7 @@ header .navbar ul li a:hover{
   position: relative;
   height: 15px;
   width: 550px;
-  background: #fff;
+  background: #D1D1D1;
   border-radius: 10px;
   
 /*
@@ -450,7 +450,7 @@ header .navbar ul li a:hover{
 .contact .row .content{
     flex:1 1 30rem;
     padding:4rem;
-    padding-bottom: 0;
+    padding-bottom: 100px;
 }
 
 .contact .row form{
@@ -493,11 +493,13 @@ header .navbar ul li a:hover{
     color:black;
     padding:1rem 0;
     font-weight: normal;
+    text-transform: none;
 }
 
 .contact .row .content .info h3 i{
     padding-right: 1rem;
     color: black;
+
 }
 
 .top{
